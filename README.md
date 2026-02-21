@@ -26,7 +26,7 @@ python3 examen.py
 
 <div class="copyright">
 
-&copy; 2021 *Jorge Barba*. *``Todos los derechos reservados``.*
+&copy; 2026 *Jorge Barba*. *``Todos los derechos reservados``.*
 
 </div>
 
